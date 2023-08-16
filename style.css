@@ -151,8 +151,8 @@ p{
 
 .about{
     display: flex;
-}
-.about img{
+    background-image: url(./pic2.jpg);
+    background-position: right;
     width: 400px;
     height: 400px;
     padding: 0px 30px;
