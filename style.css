@@ -52,7 +52,7 @@ p{
     position: absolute;
     top: 0;
     left: 0; 
-    background-image: url(picbackground.jpg);
+    background-image: url(./picbackground.jpg);
     height: 800px;
     width: 100%;
     z-index: -1;
