@@ -151,8 +151,6 @@ p{
 
 .about{
     display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
 }
 .about img{
     width: 400px;
