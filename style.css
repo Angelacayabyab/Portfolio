@@ -52,7 +52,7 @@ p{
     position: absolute;
     top: 0;
     left: 0; 
-    background-image: url(./picbackground.jpg);
+    background-image: url(picbackground.jpg);
     height: 800px;
     width: 100%;
     z-index: -1;
@@ -110,7 +110,7 @@ p{
 }
 .gallery img{
     width: 650px;
-    height: 500px;
+    height: 600px;
     padding: 20px;
     margin: 10px;
 }
@@ -149,7 +149,7 @@ p{
     height: 700px;
 }
 .about{
-    display: flex
+    display: flex;
 }
 .about img{
     width: 400px;
