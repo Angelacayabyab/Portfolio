@@ -109,10 +109,10 @@ p{
     flex-wrap: wrap;
 }
 .gallery img{
-    width: 650px;
-    height: 600px;
+    width: 500px;
+    height: 450px;
     padding: 20px;
-    margin: 10px;
+    margin: 25px;
 }
 .gallery img:hover{
     background-color: white;
